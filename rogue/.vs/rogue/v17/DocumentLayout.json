@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jg200\\OneDrive\\Documentos\\GitHub\\Examen\\JuegoExamen\\rogue\\",
+  "WorkspaceRootPath": "C:\\Users\\Juan\\Documents\\GitHub\\rogue\\rogue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68E3F8E2-1CE7-BBA0-99BB-E992B1F65EFA}|Assembly-CSharp.csproj|c:\\users\\jg200\\onedrive\\documentos\\github\\examen\\juegoexamen\\rogue\\assets\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E3F8E2-1CE7-BBA0-99BB-E992B1F65EFA}|Assembly-CSharp.csproj|solutionrelative:assets\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juan\\Documents\\GitHub\\rogue\\rogue\\Assets\\Scripts\\Gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Gridmanager.cs",
-              "DocumentMoniker": "C:\\Users\\jg200\\OneDrive\\Documentos\\GitHub\\Examen\\JuegoExamen\\rogue\\Assets\\Gridmanager.cs",
-              "RelativeDocumentMoniker": "Assets\\Gridmanager.cs",
-              "ToolTip": "C:\\Users\\jg200\\OneDrive\\Documentos\\GitHub\\Examen\\JuegoExamen\\rogue\\Assets\\Gridmanager.cs",
-              "RelativeToolTip": "Assets\\Gridmanager.cs",
-              "ViewState": "AQIAAJQAAAAAAAAAAAAcwHYAAAANAAAA",
+              "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\rogue\\rogue\\Assets\\Scripts\\Gridmanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gridmanager.cs",
+              "ToolTip": "C:\\Users\\Juan\\Documents\\GitHub\\rogue\\rogue\\Assets\\Scripts\\Gridmanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gridmanager.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAACQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:45:00.473Z",
+              "WhenOpened": "2024-11-07T12:29:29.919Z",
               "EditorCaption": ""
             }
           ]
